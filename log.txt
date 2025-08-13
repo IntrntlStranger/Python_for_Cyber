@@ -1,0 +1,8 @@
+malicious-site.net
+example.com
+hadyupdates.ru
+john@legitcompany.org
+securebank.com
+fileshare.local
+evilcorp.biz
+randomsafewebsite.net

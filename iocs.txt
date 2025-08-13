@@ -1,0 +1,5 @@
+malicious-site.net
+evilcorp.biz
+example.com
+securebank.com
+shadyupdates.ru

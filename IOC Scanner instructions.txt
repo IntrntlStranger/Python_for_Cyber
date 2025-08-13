@@ -1,0 +1,17 @@
+How to use the IOC Scanner v1.0
+
+
+
+This version of the scanner: 
+
+- Doesn't support raw logs, but only extracted artifacts (IP addresses, Hashes, Domains etc.)
+
+- The known IOC file should be a list of the indicators (mentioned above).
+
+- The matched findings are printed in the CLI, the unmatched are sent to the output file.
+
+
+In the directory where the script is stored type:
+
+'python ./IOC Scanner 1.0.py --log <pathway to the the logs file> --iocs <pathway to the iocs file> --out <pathway to the output file>'
+
